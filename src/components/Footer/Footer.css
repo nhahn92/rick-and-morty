@@ -73,3 +73,8 @@ form button[type='submit']:hover {
   /* background-color: var(--primary-bg); */
   background-color: red;
 }
+
+.footer-dark {
+  background-color: black;
+  border-top: solid 1px gray;
+}

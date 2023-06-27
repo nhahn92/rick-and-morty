@@ -12,3 +12,8 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.homepage-dark {
+    background-color: black;
+    color: white;
+ }
