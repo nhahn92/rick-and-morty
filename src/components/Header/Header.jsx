@@ -22,6 +22,7 @@ function Header() {
             <Link to="/episodes">Episodes</Link>
         </div>
         <div>
+          <Link to="/favorites">My Favorites</Link>
           <button className={darkMode?"theme-button theme-button-dark" : "theme-button"}
           onClick={() => setDarkMode(!darkMode)}>
             {
